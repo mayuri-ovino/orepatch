@@ -1,9 +1,7 @@
 # Ore Patch (Minecraft 26.2 build)
 
-A Fabric mod for Minecraft 26.2 that finds ores hidden behind only a
-single block of air — the classic "ore peeking through a thin cave wall"
-worldgen artifact — and seals them up by turning **both** the ore and the
-air gap into stone.
+A Fabric mod for Minecraft 26.2 that hides ores hidden behind only a
+single block of air (Anti-Anti-Xray)
 
 ## What counts as "exposed"
 
