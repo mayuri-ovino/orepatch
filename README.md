@@ -17,11 +17,3 @@ Mojang class/method names as 26.1.2 under official mappings. Only the
 Gradle config, `fabric.mod.json`, and the mixin's remap settings differ.
 
 Each folder has its own README with build/install steps for that version.
-
-**Heads-up:** I don't have network access in this environment, so I
-couldn't actually run `./gradlew build` against Mojang's servers to
-confirm the 1.21.11 and 26.2 builds compile clean — the 26.1.2 folder is
-your original, already-building project untouched. The other two are a
-careful port based on Fabric's official 26.2 and 1.21.11 migration docs;
-if a build turns up a small naming mismatch, it's most likely a single
-renamed identifier.
