@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.example.orepatch.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "BlockUpdateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
