@@ -34,9 +34,6 @@ front.
 
 ## Toggling it from chat
 
-Operators (permission level 2+, same as `/gamemode`) can control the mod
-live with the `/orepatch` command — no file edits or restarts needed:
-
 | Command | Effect |
 |---|---|
 | `/orepatch` or `/orepatch status` | Shows whether it's on/off and the current scan rate |
