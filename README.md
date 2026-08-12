@@ -1,7 +1,7 @@
-# Ore Patch (Minecraft 26.2 build)
+# Ore Patch
 
 A Fabric mod for Minecraft 26.2 that hides ores hidden behind only a
-single block of air (Anti-Anti-Xray)
+single block of air (Anti Anti-Xray)
 
 discord.gg/HAxWvejMUm
 
