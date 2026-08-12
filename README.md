@@ -3,6 +3,8 @@
 A Fabric mod for Minecraft 26.2 that hides ores hidden behind only a
 single block of air (Anti-Anti-Xray)
 
+discord.gg/HAxWvejMUm
+
 ## What counts as "exposed"
 
 For every ore block — coal, copper, iron, gold, lapis, redstone, emerald,
